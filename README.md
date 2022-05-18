@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Aaron Whitmer and I am an aspiring Ruby-on-Rails Developer. 
+Hi, I’m Aaron and I'm an aspiring Ruby-on-Rails Developer. 
 
