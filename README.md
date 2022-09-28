@@ -1,2 +1,2 @@
-Hi, I’m Aaron and I'm an aspiring Ruby-on-Rails Developer. 
+Hi, my name is Aaron and I'm a Ruby Developer. 
 
