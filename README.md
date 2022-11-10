@@ -1,2 +1,2 @@
-> Hi, my name is Aaron and I'm a Ruby Developer. 
+> Hi, I'm Aaron. Welcome to my GitHub page. 
 
