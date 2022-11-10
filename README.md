@@ -1,4 +1,4 @@
-### Hi, I'm Aaron.
+### Hi, I'm Aaron / 维达默.
 #### Welcome to my GitHub
 Girl dad, Mandarin (普通话) enthusiast, Rubyist
 
