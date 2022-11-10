@@ -4,7 +4,7 @@ Girl dad, Mandarin (普通话) enthusiast, Rubyist
 
 Skills: Ruby / Sinatra / Ruby-on-Rails / RSpec / JS / HTML / CSS
 
-- 🔭 I’m currently working on a learning tracking and organizing system for my daughters. 
+- 🔭 I’m currently working on a learning tracking and organiz system for my daughters. 
 - 📫 How to reach me: adwhitmer@gmail.com 
 
 
